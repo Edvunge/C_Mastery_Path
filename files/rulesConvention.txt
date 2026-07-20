@@ -1,0 +1,9 @@
+
+Regras de Conveção a serem utilizadas neste repositorio
+
+Rule 1#: Escrita de nomes de projectos devem seguir a regra: Proj00_nomeDoProjecto
+    OBS: 00 deve conter o numero do projecto seguindo uma ordem numerica, 01, 02, 03, 0..
+
+Rule 2#: Escrita de nome de exercicios deve seguir a seguinte regra: Exerc00_nomeDoExercicio
+
+Rule 
